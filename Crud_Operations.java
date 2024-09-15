@@ -1,4 +1,3 @@
-package jdbc;
 import java.util.Scanner;
 import java.sql.*;
 
